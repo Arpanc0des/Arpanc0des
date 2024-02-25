@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpan Silwal</h1>
 <h3 align="center">A Full stack enthusiast studying computer programming</h3>
 
-- 🔭 I’m currently working on **Freecodecamp certifications**
+- 🔭 I’m currently working on **JavaFX and JDBC with hibernate**
 
 - 📫 How to reach me **arpansilwal@gmail.com**
 
